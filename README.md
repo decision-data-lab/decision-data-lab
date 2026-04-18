@@ -1,16 +1,47 @@
-## Hi there 👋
+## 👤 About Me
 
-<!--
-**decision-data-lab/decision-data-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a data scientist with a background in neuroscience and formal training in data science, interested in computational modelling of human behaviour, decision-making, and complex systems.
 
-Here are some ideas to get you started:
+My work focuses on applying statistical and machine learning methods to understand how people process information, form beliefs, and make decisions under uncertainty.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 Interests
+
+- Behavioural modelling and decision science  
+- Machine learning and predictive analytics  
+- Cognitive and computational neuroscience  
+- Data-driven analysis of human behaviour  
+- Systems modelling and uncertainty reasoning  
+
+---
+
+## 💻 Technical Skills
+
+- Python (pandas, numpy, sklearn)  
+- Data analysis and statistical modelling  
+- Machine learning (classification, regression)  
+- SQL and data handling  
+- Web development (HTML, CSS, JavaScript)  
+- Git / GitHub version control  
+
+---
+
+## 📁 Selected Projects
+
+- Behavioural data analysis using Python  
+- Predictive modelling of structured datasets  
+- Web-based tools for data exploration and visualisation  
+
+---
+
+## 🎓 Background
+
+- MSc Data Science — Deakin University  
+- BSc Neuroscience — University of New England  
+
+---
+
+## 📫 Contact
+
+darrenmccauley717@gmail.com
